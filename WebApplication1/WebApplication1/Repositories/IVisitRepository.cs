@@ -1,6 +1,6 @@
 namespace WebApplication1.Models;
 
-public class AnimalRepository
+public interface IVisitRepository
 {
     
 }
